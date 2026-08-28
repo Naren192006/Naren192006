@@ -76,17 +76,6 @@ A modern esports tournament platform that I'm building while learning React, Nex
 
 Python implementations of recursion, linked lists, stacks, queues, trees, graphs, and backtracking problems.
 
----
-
-## 📊 GitHub Stats
-
-![Narendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naren192006\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naren192006\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Naren192006\&theme=tokyonight)
-
----
 
 ## 🎯 2026 Goals
 
